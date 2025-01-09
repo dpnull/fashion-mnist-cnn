@@ -34,8 +34,6 @@ The Fashion MNIST dataset is used for this project.
 
 ## Results
 
-## Results
-
 The CNN model achieved the following performance on the test set after 25 epochs:
 
 *   **Test Loss:** Approximately 0.3551
