@@ -52,8 +52,6 @@ The following plots illustrate the training and validation accuracy and loss cur
 
 **Further Improvements:**
 
-The results suggest that further improvements might be achieved by:
-
 *   **Early Stopping:** Implementing early stopping during training to halt the process when the validation loss stops decreasing, preventing further overfitting.
 *   **Hyperparameter Tuning:**  Experimenting with different hyperparameters, such as the learning rate, dropout rate, and L2 regularization strength, to find a better balance between training and validation performance.
 *   **Data Augmentation:** Applying data augmentation techniques to increase the diversity of the training data and potentially improve generalization.
